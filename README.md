@@ -1,5 +1,10 @@
+## Note
+
+This is an archived copy that I pulled from our installed app when the maintainer of this gem pulled it down from Github. I won't be maintaining this, nor will be keeping it around once I remove this gem from our app, so please don't rely on this for anything substantial.
+
+Original README follows:
+
 ## Status
-[![Build Status](https://secure.travis-ci.org/peterwillcn/rails4-autocomplete.png)](http://travis-ci.org/peterwillcn/rails4-autocomplete.png)
 
 Unfortunately, I don't have much time to work on this gem, I'm looking for
 someone to help with its maintenance. Send me an email if you are interested in
